@@ -176,10 +176,10 @@ namespace Lab2
 
             StringBuilder myStr = new StringBuilder("lolomg");
             Console.WriteLine($"Первоначальная строка: {myStr}");
-            myStr.Remove(3, 3); // удаление определенных позиций
+            myStr.Remove(3, 3);//удаление определенных позиций
             Console.WriteLine($"Строка после удаления позиций: {myStr}");
-            myStr.Append("!");  // добавление в конец
-            myStr.Insert(0, "?");   // добавление на заданную позицию
+            myStr.Append("!");//добавление в конец
+            myStr.Insert(0, "?");//добавление на заданную позицию
             Console.WriteLine($"Строка после вставки символов в начало и в конец: {myStr}");
             Console.ReadLine();
 
