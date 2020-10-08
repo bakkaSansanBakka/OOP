@@ -34,21 +34,12 @@ namespace Lab2
             Console.WriteLine($"Значение переменной типа char: {char_var}");
             float float_var = 10.1f;
             Console.WriteLine($"Значение переменной типа float: {float_var}");
-            double double_var = 100.1d;
-            Console.WriteLine($"Значение переменной типа double: {double_var}");
+            Console.WriteLine("Введите значение double переменной");
+            double double_var = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine($"Значение переменной типа double, введенное через консоль: {double_var}");
             bool bool_var = true;
             Console.WriteLine($"Значение переменной типа bool: {bool_var}");
-            decimal decimal_var = 104.33m;
-            Console.WriteLine($"Значение переменной типа decimal: {decimal_var}");
-            Console.WriteLine("Введите строку");
-            string string_var = Console.ReadLine();
-            Console.WriteLine($"Значение переменной типа string, введенное через консоль: {string_var}");
-            object object_var_float = 567.1F;
-            Console.WriteLine($"Значение переменной типа object (float в данном случае): {object_var_float}");
-            Console.WriteLine("Введите переменную типа object");
-            object object_var = Console.ReadLine();
-            Console.WriteLine($"Значение переменной типа object, введенное через консоль: {object_var}");
-            Console.WriteLine("...нажмите любую клавишу...");
+            
             Console.Read();
 
             //b - операции явного и неявного приведения типов
@@ -59,11 +50,11 @@ namespace Lab2
             uint_var = (ushort)char_var;
             uint_var = ushort_var;
 
-            float_var = (float)decimal_var;
+            float_var = (float)double_var;
             float_var = byte_var;
 
-            decimal_var = (decimal)short_var;
-            decimal_var = int_var;
+            decimal somevar1 = (decimal)short_var;
+            decimal somevar2 = int_var;
 
             ushort_var = (ushort)sbyte_var;
             ushort_var = char_var;
