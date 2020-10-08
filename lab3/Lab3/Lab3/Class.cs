@@ -6,13 +6,6 @@ using System.Threading.Tasks;
 
 namespace Lab3
 {
-    class A
-    {
-        private int _num;
-        public A(int num) { Num = num; }
-        public int Num { get { return _num; } set { _num = value; } }
-    }
-    
     public partial class Product
     {
         // поля класса
