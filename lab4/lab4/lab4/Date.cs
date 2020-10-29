@@ -13,7 +13,6 @@ namespace lab4
         {
             private int day;
             private int month;
-            private int year;
             public int Day
             {
                 get => day;
@@ -40,15 +39,15 @@ namespace lab4
                 {
                     if (value < 1)
                     {
-                        day = 1;
+                        month = 1;
                     }
                     else if (value > 12)
                     {
-                        day = 12;
+                        month = 12;
                     }
                     else
                     {
-                        day = value;
+                        month = value;
                     }
                 }
             }
