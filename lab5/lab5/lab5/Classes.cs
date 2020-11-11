@@ -10,6 +10,7 @@ namespace lab5
     {
         private protected string nameOfOrganization = "ООО\"Севастополь\"";
         public string NameOfOrganization { get => nameOfOrganization; set => nameOfOrganization = value; }
+        public abstract void Burning();
     }
     public class Date
     {
@@ -83,6 +84,14 @@ namespace lab5
         public void Lose()
         {
             Console.WriteLine("Документ утерян");
+        }
+        void IManipulate.Burning()
+        {
+            Console.WriteLine("О нет! Документ горит!");
+        }
+        public override void Burning()
+        {
+            Console.WriteLine("Oh no! The document is burning!");
         }
 
         // Переопределенные методы Object
