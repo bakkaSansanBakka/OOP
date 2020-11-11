@@ -8,7 +8,12 @@ namespace lab5
 {
     abstract public class Organization
     {
-        private protected string nameOfOrganization = "ООО\"Севастополь\"";
+        private protected string nameOfOrganization;
+        public Organization() { }
+        public Organization(string orgName)
+        {
+            nameOfOrganization = orgName;
+        }
         public string NameOfOrganization { get => nameOfOrganization; set => nameOfOrganization = value; }
         public abstract void Burning();
         public override string ToString() => $"Тип объекта – {this.GetType()}, название организации – {this.nameOfOrganization}";
@@ -59,8 +64,8 @@ namespace lab5
         private protected Date date;
         public bool IsStamped { get => stamp; set => stamp = value; }
         public Document(string organizationName, int dateDay, int dateMonth, int dateYear, bool isStamped)
+            : base(organizationName)
         {
-            NameOfOrganization = organizationName;
             date = new Date(dateDay, dateMonth, dateYear);
             stamp = isStamped;
         }
