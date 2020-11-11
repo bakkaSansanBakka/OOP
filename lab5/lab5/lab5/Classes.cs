@@ -11,6 +11,7 @@ namespace lab5
         private protected string nameOfOrganization = "ООО\"Севастополь\"";
         public string NameOfOrganization { get => nameOfOrganization; set => nameOfOrganization = value; }
         public abstract void Burning();
+        public override string ToString() => $"Тип объекта – {this.GetType()}, название организации – {this.nameOfOrganization}";
     }
     public class Date
     {
@@ -50,7 +51,7 @@ namespace lab5
             Month = dateMonth;
             Year = dateYear;
         }
-        public void DateInformation() => Console.WriteLine($"Дата создания: {day}.{month}.{year}");
+        public override string ToString() => $"Тип объекта – {this.GetType()}, дата создания: {day}.{month}.{year}";
     }
     public class Document : Organization, IManipulate
     {
@@ -96,7 +97,7 @@ namespace lab5
 
         // Переопределенные методы Object
 
-        public override string ToString() => $"Организация – {this.NameOfOrganization}, " +
+        public override string ToString() => $"Тип объекта – {this.GetType()}, организация – {this.NameOfOrganization}, " +
             $"дата создания – {date.Day}.{date.Month}.{date.Year}, есть ли печать – " + (stamp ? "есть" : "нет");
         public override int GetHashCode() => HashCode.Combine(this.NameOfOrganization, date.Day, date.Month, date.Year);
         public override bool Equals(object obj)
@@ -127,6 +128,7 @@ namespace lab5
         {
             Console.WriteLine("Этот документ хранится в ящике");
         }
+        public override string ToString() => base.ToString() + $", тип документа – {this.DocType}";
     }
     public class Invoice : Document //накладная
     {
@@ -141,6 +143,7 @@ namespace lab5
         {
             Console.WriteLine("Этот документ хранится на полке");
         }
+        public override string ToString() => base.ToString() + $", тип документа – {this.DocType}";
     }
     sealed public class Check : Document   //чек
     {
@@ -155,5 +158,6 @@ namespace lab5
         {
             Console.WriteLine("Этот документ хранится в стопке");
         }
+        public override string ToString() => base.ToString() + $", тип документа – {this.DocType}";
     }
 }
