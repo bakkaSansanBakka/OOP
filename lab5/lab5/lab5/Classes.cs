@@ -133,7 +133,7 @@ namespace lab5
             Console.WriteLine("Этот документ хранится на полке");
         }
     }
-    public class Check : Document   //чек
+    sealed public class Check : Document   //чек
     {
         private protected string docType;
         public string DocType { get => docType; set => docType = value; }
