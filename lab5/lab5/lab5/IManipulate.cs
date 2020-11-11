@@ -11,5 +11,6 @@ namespace lab5
         void Change();
         void Find();
         void Lose();
+        void Burning();
     }
 }
