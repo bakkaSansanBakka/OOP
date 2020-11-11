@@ -6,41 +6,10 @@ using System.Threading.Tasks;
 
 namespace lab5
 {
-    public class Organization
+    abstract public class Organization
     {
-        private protected Date date;
-        private protected string nameOfOrganization;
+        private protected string nameOfOrganization = "ООО\"Севастополь\"";
         public string NameOfOrganization { get => nameOfOrganization; set => nameOfOrganization = value; }
-        public Organization()
-        {
-            nameOfOrganization = "MMM";
-            date = new Date(7, 11, 2020);
-        }
-        public Organization(string orgName, int dateDay, int dateMonth, int dateYear)
-        {
-            nameOfOrganization = orgName;
-            date = new Date(dateDay, dateMonth, dateYear);
-        }
-
-        // Переопределенные методы Object
-
-        public override string ToString() => $"Организация – {nameOfOrganization}, " +
-            $"дата создания – {date.Day}.{date.Month}.{date.Year}";
-        public override int GetHashCode() => HashCode.Combine(nameOfOrganization, date.Day, date.Month, date.Year);
-        public override bool Equals(object obj)
-        {
-            if (obj is Organization objectType)
-            {
-                if (this.date.Day == objectType.date.Day
-                        && this.date.Month == objectType.date.Month
-                            && this.date.Year == objectType.date.Year
-                                && this.nameOfOrganization == objectType.nameOfOrganization)
-                {
-                    return true;
-                }
-            }
-            return false;
-        }
     }
     public class Date
     {
@@ -82,18 +51,58 @@ namespace lab5
         }
         public void DateInformation() => Console.WriteLine($"Дата создания: {day}.{month}.{year}");
     }
-    public class Document : Organization
+    public class Document : Organization, IManipulate
     {
         private protected bool stamp;
+        private protected Date date;
         public bool IsStamped { get => stamp; set => stamp = value; }
-        public Document(string organizationName, int dateDay, int dateMonth, int dateYear, bool isStamped) 
-            : base(organizationName, dateDay, dateMonth, dateYear)
+        public Document(string organizationName, int dateDay, int dateMonth, int dateYear, bool isStamped)
         {
+            NameOfOrganization = organizationName;
+            date = new Date(dateDay, dateMonth, dateYear);
             stamp = isStamped;
         }
-        public override string ToString()
+
+        // виртуальные методы, подлежащие переопределению
+
+        virtual public void Store()
         {
-            return base.ToString() + $", есть ли печать – " + (stamp ? "есть" : "нет");
+            Console.WriteLine("Документ хранится в сейфе");
+        }
+
+        // реализация методов интерфейса
+
+        public void Change()
+        {
+            Console.WriteLine("Документ изменен");
+        }
+        public void Find()
+        {
+            Console.WriteLine("Документ найден");
+        }
+        public void Lose()
+        {
+            Console.WriteLine("Документ утерян");
+        }
+
+        // Переопределенные методы Object
+
+        public override string ToString() => $"Организация – {this.NameOfOrganization}, " +
+            $"дата создания – {date.Day}.{date.Month}.{date.Year}, есть ли печать – " + (stamp ? "есть" : "нет");
+        public override int GetHashCode() => HashCode.Combine(this.NameOfOrganization, date.Day, date.Month, date.Year);
+        public override bool Equals(object obj)
+        {
+            if (obj is Document objectType)
+            {
+                if (this.date.Day == objectType.date.Day
+                        && this.date.Month == objectType.date.Month
+                            && this.date.Year == objectType.date.Year
+                                && this.NameOfOrganization == objectType.NameOfOrganization)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
     public class Receipt : Document //квитанция
@@ -105,7 +114,10 @@ namespace lab5
         {
             docType = documentType;
         }
-        
+        public override void Store()
+        {
+            Console.WriteLine("Этот документ хранится в ящике");
+        }
     }
     public class Invoice : Document //накладная
     {
@@ -116,6 +128,10 @@ namespace lab5
         {
             docType = documentType;
         }
+        public override void Store()
+        {
+            Console.WriteLine("Этот документ хранится на полке");
+        }
     }
     public class Check : Document   //чек
     {
@@ -125,6 +141,10 @@ namespace lab5
             : base(organizationName, dateDay, dateMonth, dateYear, isStamped)
         {
             docType = documentType;
+        }
+        public override void Store()
+        {
+            Console.WriteLine("Этот документ хранится в стопке");
         }
     }
 }
