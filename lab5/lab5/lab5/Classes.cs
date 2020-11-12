@@ -165,4 +165,11 @@ namespace lab5
         }
         public override string ToString() => base.ToString() + $", тип документа – {this.DocType}";
     }
+    public class Printer
+    {
+        public void IAmPrinting(Organization someobj)
+        {
+            Console.WriteLine(someobj.ToString());
+        }
+    }
 }
