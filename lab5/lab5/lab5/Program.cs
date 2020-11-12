@@ -18,6 +18,7 @@ namespace lab5
             Receipt receipt1 = new Receipt("ООО \"Белгород\"", 12, 12, 2020, true, "квитанция");
             Console.WriteLine(receipt1.ToString());
 
+            Check check1 = new Check("ООО \"Белгород\"", 11, 9, 2020, true, "чек");
             Invoice invoice1 = new Invoice("ООО \"Белгород\"", 10, 10, 2020, true, "накладная");
 
             //оператор is проверяет, может ли переменная быть преобразована в указанный тип, возвращает bool
@@ -28,6 +29,14 @@ namespace lab5
             Console.WriteLine($"Преобразование Invoice в Document {((doc != null) ? "" : "не")} завершено");
             Console.WriteLine(invoice1 is IManipulate ? "invoice1 является ссылкой на IManipulate" :
                 "invoice1 не является ссылкой на IManipulate");
+
+            Console.WriteLine("``````````Printer`````````");
+            Printer printer = new Printer();
+            Organization[] organizationsArray = new Organization[] { document1, receipt1, invoice1, check1};
+            foreach(var one in organizationsArray)
+            {
+                printer.IAmPrinting(one);
+            }
 
             Console.ReadKey();
         }
