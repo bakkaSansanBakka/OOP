@@ -30,7 +30,7 @@ namespace lab5
             Console.WriteLine(invoice1 is IManipulate ? "invoice1 является ссылкой на IManipulate" :
                 "invoice1 не является ссылкой на IManipulate");
 
-            Console.WriteLine("``````````Printer`````````");
+            Console.WriteLine("`````````Printer`````````");
             Printer printer = new Printer();
             Organization[] organizationsArray = new Organization[] { document1, receipt1, invoice1, check1};
             foreach(var one in organizationsArray)
