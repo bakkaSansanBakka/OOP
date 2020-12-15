@@ -28,8 +28,8 @@ namespace lab8
             documentClollection.Display();
 
             Console.WriteLine("Запись в файл\n");
-            Console.WriteLine("Чтение из файла");
             documentClollection.ToFile();
+            Console.WriteLine("Чтение из файла");
             documentClollection.FromFileToConsole();
             Console.Read();
         }
