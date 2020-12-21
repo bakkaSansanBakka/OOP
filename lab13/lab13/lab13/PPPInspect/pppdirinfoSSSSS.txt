@@ -1,0 +1,9 @@
+Папки:
+F:$RECYCLE.BIN
+F:Config.Msi
+F:Movavi Video Editor 15
+F:New
+F:SteamLibrary
+F:System Volume Information
+F:Telegram Desktop
+Файлы:

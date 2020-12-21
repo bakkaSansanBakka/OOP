@@ -1,0 +1,916 @@
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 1:16:59, всего свободного места на диске C: – 53358780416
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 1:16:59, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 1:16:59:
+имя диска – C:\, объем – 160018984960, доступный объем – 53358780416, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461984256, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 1:16:59, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 1:16:59, размер файла PPPLogFile.txt – 1004, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 1:16:59, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 1:16:59
+Метод – Void FilesAmount(System.String), время – 17.12.2020 1:16:59, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 1:16:59, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 1:16:59, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 1:16:59, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 2:37:55, всего свободного места на диске C: – 53026361344
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 2:37:55, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 2:37:55:
+имя диска – C:\, объем – 160018984960, доступный объем – 53026361344, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461963776, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 2:37:55, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 2:37:55, размер файла PPPLogFile.txt – 3122, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 2:37:55, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 2:37:55
+Метод – Void FilesAmount(System.String), время – 17.12.2020 2:37:55, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 2:37:55, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 2:37:55, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 2:37:55, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 2:37:55, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 2:37:55, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 2:38:16, всего свободного места на диске C: – 53025837056
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 2:38:16, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 2:38:16:
+имя диска – C:\, объем – 160018984960, доступный объем – 53025837056, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461967872, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 2:38:16, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 2:38:16, размер файла PPPLogFile.txt – 5663, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 2:38:16, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 2:38:16
+Метод – Void FilesAmount(System.String), время – 17.12.2020 2:38:16, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 2:38:16, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 2:38:16, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 2:38:16, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 2:38:16, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 2:38:16, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 2:38:16, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 2:38:28, всего свободного места на диске C: – 53023420416
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 2:38:28, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 2:38:28:
+имя диска – C:\, объем – 160018984960, доступный объем – 53023420416, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461963776, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 2:38:28, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 2:38:28, размер файла PPPLogFile.txt – 8425, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 2:38:28, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 2:38:28
+Метод – Void FilesAmount(System.String), время – 17.12.2020 2:38:28, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 2:38:28, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 2:38:28, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 2:38:28, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 2:38:28, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 2:38:28, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 2:38:28, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 2:41:14, всего свободного места на диске C: – 53022875648
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 2:41:14, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 2:41:14:
+имя диска – C:\, объем – 160018984960, доступный объем – 53022875648, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461963776, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 2:41:14, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 2:41:14, размер файла PPPLogFile.txt – 11187, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 2:41:14, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 2:41:14
+Метод – Void FilesAmount(System.String), время – 17.12.2020 2:41:14, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 2:41:14, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 2:41:14, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 2:41:14, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 2:41:14, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 2:41:14, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 2:41:14, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateFile(System.String), время – 17.12.2020 2:41:14, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfolol.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 2:42:42, всего свободного места на диске C: – 53026029568
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 2:42:42, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 2:42:42:
+имя диска – C:\, объем – 160018984960, доступный объем – 53026029568, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461955584, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 2:42:42, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 2:42:42, размер файла PPPLogFile.txt – 14174, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 2:42:42, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 2:42:42
+Метод – Void FilesAmount(System.String), время – 17.12.2020 2:42:42, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 2:42:42, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 2:42:42, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 2:42:42, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 2:42:42, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 2:42:42, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 2:42:42, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 2:43:25, всего свободного места на диске C: – 53024256000
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 2:43:25, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 2:43:25:
+имя диска – C:\, объем – 160018984960, доступный объем – 53024256000, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461959680, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 2:43:25, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 2:43:25, размер файла PPPLogFile.txt – 16937, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 2:43:25, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 2:43:25
+Метод – Void FilesAmount(System.String), время – 17.12.2020 2:43:25, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 2:43:25, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 2:43:25, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 2:43:25, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 2:43:25, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 2:43:25, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 2:43:25, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 2:59:11, всего свободного места на диске C: – 53023141888
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 2:59:11, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 2:59:11:
+имя диска – C:\, объем – 160018984960, доступный объем – 53023141888, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461947392, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 2:59:11, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 2:59:11, размер файла PPPLogFile.txt – 19700, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 2:59:11, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 2:59:11
+Метод – Void FilesAmount(System.String), время – 17.12.2020 2:59:11, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 2:59:11, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 2:59:11, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 2:59:11, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 2:59:11, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 2:59:12, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 2:59:12, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 2:59:12, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\temp.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:26:37, всего свободного места на диске C: – 53020454912
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:26:37, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:26:37:
+имя диска – C:\, объем – 160018984960, доступный объем – 53020454912, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461947392, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367329001472, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:26:37, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:26:37, размер файла PPPLogFile.txt – 22673, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:26:37, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:26:37
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:26:37, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:26:37, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:26:37, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:26:37, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:26:37, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:26:37, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:26:37, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:34:56, всего свободного места на диске C: – 53017935872
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:34:56, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:34:56:
+имя диска – C:\, объем – 160018984960, доступный объем – 53017935872, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461943296, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:34:56, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:34:56, размер файла PPPLogFile.txt – 25436, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:34:56, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:34:56
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:34:56, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:34:56, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:34:56, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:34:56, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:34:56, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:34:56, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:34:56, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:34:57, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:34:57, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\temp.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:42:29, всего свободного места на диске C: – 53013852160
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:42:29, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:42:29:
+имя диска – C:\, объем – 160018984960, доступный объем – 53013852160, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461939200, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:42:29, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:42:29, размер файла PPPLogFile.txt – 28617, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:42:29, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:42:29
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:42:29, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:42:29, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:42:29, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:42:29, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:46:21, всего свободного места на диске C: – 53010518016
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:46:21, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:46:21:
+имя диска – C:\, объем – 160018984960, доступный объем – 53010378752, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461939200, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:46:21, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:46:21, размер файла PPPLogFile.txt – 30736, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:46:21, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:46:21
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:46:21, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:46:21, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:46:21, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:46:21, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:48:47, всего свободного места на диске C: – 53008588800
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:48:47, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:48:47:
+имя диска – C:\, объем – 160018984960, доступный объем – 53008519168, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461939200, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:48:47, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:48:47, размер файла PPPLogFile.txt – 32855, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:48:47, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:48:47
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:48:47, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:48:47, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:48:47, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:48:47, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:48:47, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:48:47, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:48:47, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:48:47, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 3:48:47, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:48:47, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\temp.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:50:23, всего свободного места на диске C: – 53008625664
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:50:23, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:50:23:
+имя диска – C:\, объем – 160018984960, доступный объем – 53008625664, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461935104, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:50:23, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:50:23, размер файла PPPLogFile.txt – 36333, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:50:23, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:50:23
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:50:23, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:50:23, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:50:23, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:50:23, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:50:23, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:50:23, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:50:23, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:50:23, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:50:45, всего свободного места на диске C: – 53006741504
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:50:45, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:50:45:
+имя диска – C:\, объем – 160018984960, доступный объем – 53006741504, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461931008, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:50:45, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:50:45, размер файла PPPLogFile.txt – 39312, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:50:45, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:50:45
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:50:45, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:50:45, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:50:45, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:50:45, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:50:45, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:50:45, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:50:45, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:50:45, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 3:50:45, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 3:50:45, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:50:45, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\temp.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:52:08, всего свободного места на диске C: – 53007400960
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:52:08, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:52:08:
+имя диска – C:\, объем – 160018984960, доступный объем – 53007400960, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461926912, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:52:08, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:52:08, размер файла PPPLogFile.txt – 43059, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:52:08, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:52:08
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:52:08, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:52:08, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:52:08, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:52:08, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:52:08, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:52:08, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:52:08, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:52:08, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 3:52:08, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 3:52:08, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:52:08, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:53:25, всего свободного места на диске C: – 53006290944
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:53:25, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:53:25:
+имя диска – C:\, объем – 160018984960, доступный объем – 53006290944, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461918720, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:53:25, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:53:25, размер файла PPPLogFile.txt – 46812, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:53:25, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:53:25
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:53:25, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:53:25, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:53:25, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:53:25, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:53:25, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:53:25, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:53:25, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:53:25, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 3:53:25, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:53:25, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:53:36, всего свободного места на диске C: – 53009313792
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:53:36, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:53:36:
+имя диска – C:\, объем – 160018984960, доступный объем – 53009313792, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461914624, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:53:36, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:53:36, размер файла PPPLogFile.txt – 50296, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:53:36, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:53:36
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:53:36, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:53:36, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:53:36, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:53:36, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:53:36, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:53:36, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:53:36, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:53:36, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 3:53:36, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 3:53:36, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:53:36, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:54:17, всего свободного места на диске C: – 53008044032
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:54:17, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:54:17:
+имя диска – C:\, объем – 160018984960, доступный объем – 53008044032, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461910528, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:54:17, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:54:17, размер файла PPPLogFile.txt – 54049, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:54:17, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:54:17
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:54:17, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:54:17, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:54:18, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:54:18, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:54:18, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:54:18, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:54:18, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:54:18, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 3:54:18, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 3:54:18, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:54:18, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:54:18, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 3:54:20, всего свободного места на диске C: – 53008113664
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 3:54:20, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 3:54:20:
+имя диска – C:\, объем – 160018984960, доступный объем – 53008113664, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461910528, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 3:54:20, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 3:54:20, размер файла PPPLogFile.txt – 58021, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 3:54:20, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 3:54:20
+Метод – Void FilesAmount(System.String), время – 17.12.2020 3:54:20, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 3:54:20, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 3:54:20, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 3:54:20, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 3:54:20, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 3:54:20, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 3:54:20, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 3:54:20, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 3:54:20, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 3:54:20, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:54:20, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 3:54:20, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:13:58, всего свободного места на диске C: – 53006921728
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:13:58, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:13:58:
+имя диска – C:\, объем – 160018984960, доступный объем – 53006921728, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461898240, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:13:58, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:13:58, размер файла PPPLogFile.txt – 61993, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:13:58, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:13:58
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:13:58, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:13:58, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:13:58, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:13:58, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:13:58, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:13:58, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:13:58, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:13:58, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:13:58, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 4:13:58, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:13:58, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:13:58, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:14:45, всего свободного места на диске C: – 53005914112
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:14:45, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:14:45:
+имя диска – C:\, объем – 160018984960, доступный объем – 53005914112, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461898240, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:14:45, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:14:45, размер файла PPPLogFile.txt – 65961, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:14:45, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:14:45
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:14:45, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:14:45, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:14:45, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:14:45, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:14:45, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:14:45, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:14:45, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:14:45, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:14:45, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:14:45, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:14:45, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:15:04, всего свободного места на диске C: – 53005172736
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:15:04, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:15:04:
+имя диска – C:\, объем – 160018984960, доступный объем – 53005172736, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323461894144, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:15:04, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:15:04, размер файла PPPLogFile.txt – 69660, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:15:04, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:15:04
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:15:04, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:15:04, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:15:04, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:15:04, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:15:04, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:15:04, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:15:04, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:15:04, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:15:04, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:15:04, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:15:05, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:16:44, всего свободного места на диске C: – 53003284480
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:16:44, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:16:44:
+имя диска – C:\, объем – 160018984960, доступный объем – 53003284480, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323458686976, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:16:44, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:16:44, размер файла PPPLogFile.txt – 73323, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:16:44, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:16:44
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:16:44, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:16:44, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:16:44, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:16:44, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:16:44, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:16:44, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:16:44, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:16:44, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:16:44, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 4:16:44, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:16:44, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:16:44, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:16:44, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:17:56, всего свободного места на диске C: – 53006331904
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:17:56, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:17:56:
+имя диска – C:\, объем – 160018984960, доступный объем – 53006331904, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323454935040, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:17:56, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:17:56, размер файла PPPLogFile.txt – 77552, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:17:56, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:17:56
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:17:56, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:17:56, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:17:56, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:17:56, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:17:56, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:17:56, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:17:56, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:17:56, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:17:56, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:17:56, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:17:56, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:17:56, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:17:56, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:18:35, всего свободного места на диске C: – 53004947456
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:18:35, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:18:35:
+имя диска – C:\, объем – 160018984960, доступный объем – 53004947456, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323451727872, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:18:35, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:18:35, размер файла PPPLogFile.txt – 81770, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:18:35, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:18:35
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:18:35, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:18:35, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:18:35, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:18:35, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:18:35, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:18:35, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:18:35, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:18:35, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:18:35, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 4:18:35, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:18:35, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:18:35, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:18:35, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:18:35, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects\
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:21:21, всего свободного места на диске C: – 53007478784
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:21:21, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:21:21:
+имя диска – C:\, объем – 160018984960, доступный объем – 53007478784, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323448520704, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:21:21, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:21:21, размер файла PPPLogFile.txt – 86258, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:21:21, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:21:21
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:21:21, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:21:21, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:21:21, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:21:21, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:21:21, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:21:21, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:21:21, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:21:21, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:21:21, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:21:21, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:21:21, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:21:21, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:21:21, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:22:27, всего свободного места на диске C: – 53006008320
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:22:27, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:22:27:
+имя диска – C:\, объем – 160018984960, доступный объем – 53006008320, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323445313536, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:22:27, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:22:27, размер файла PPPLogFile.txt – 90476, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:22:27, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:22:27
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:22:27, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:22:27, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:22:27, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:22:27, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:22:27, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:22:27, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:22:27, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:22:27, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:22:27, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:22:27, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:22:27, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:22:50, всего свободного места на диске C: – 53004632064
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:22:50, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:22:50:
+имя диска – C:\, объем – 160018984960, доступный объем – 53004632064, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323442073600, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:22:50, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:22:50, размер файла PPPLogFile.txt – 94139, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:22:50, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:22:50
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:22:50, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:22:50, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:22:50, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:22:50, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:22:50, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:22:50, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:22:50, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:22:50, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:22:50, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:22:50, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:22:51, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:24:31, всего свободного места на диске C: – 53006692352
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:24:31, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:24:31:
+имя диска – C:\, объем – 160018984960, доступный объем – 53006692352, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323438870528, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:24:31, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:24:31, размер файла PPPLogFile.txt – 97802, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:24:31, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:24:31
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:24:31, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:24:31, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:24:31, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:24:31, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:24:31, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:24:31, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:24:31, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:24:31, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:24:31, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:24:31, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:26:45, всего свободного места на диске C: – 53004963840
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:26:45, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:26:45:
+имя диска – C:\, объем – 160018984960, доступный объем – 53004963840, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323438862336, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:26:45, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:26:45, размер файла PPPLogFile.txt – 101204, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:26:45, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:26:45
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:26:45, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:26:45, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:26:45, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:26:45, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:26:45, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:26:45, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:26:45, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:26:45, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:26:45, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:26:45, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:26:45, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:27:56, всего свободного места на диске C: – 53003554816
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:27:56, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:27:56:
+имя диска – C:\, объем – 160018984960, доступный объем – 53003554816, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323435655168, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:27:56, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:27:56, размер файла PPPLogFile.txt – 104872, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:27:56, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:27:56
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:27:56, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:27:56, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:27:57, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:27:57, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:27:57, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:27:57, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:27:57, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:27:57, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:27:57, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:27:57, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:27:57, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:28:11, всего свободного места на диске C: – 53002653696
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:28:11, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:28:11:
+имя диска – C:\, объем – 160018984960, доступный объем – 53002653696, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323435651072, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:28:11, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:28:11, размер файла PPPLogFile.txt – 108540, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:28:11, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:28:11
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:28:11, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:28:11, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:28:11, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:28:11, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:28:11, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:28:11, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:28:11, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:28:11, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:28:11, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:28:11, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:28:11, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:28:11, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:30:06, всего свободного места на диске C: – 53003235328
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:30:06, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:30:06:
+имя диска – C:\, объем – 160018984960, доступный объем – 53003235328, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323435642880, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:30:06, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:30:06, размер файла PPPLogFile.txt – 112466, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:30:06, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:30:06
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:30:06, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:30:06, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:30:06, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:30:06, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:30:06, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:30:06, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:30:06, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:30:06, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:30:06, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:30:06, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:30:06, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:30:06, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:30:29, всего свободного места на диске C: – 53002440704
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:30:29, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:30:29:
+имя диска – C:\, объем – 160018984960, доступный объем – 53002440704, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323435638784, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:30:29, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:30:29, размер файла PPPLogFile.txt – 116392, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:30:29, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:30:29
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:30:29, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:30:29, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:30:29, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:30:29, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:30:29, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:30:29, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:30:29, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:30:29, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:30:29, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:30:29, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:30:29, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:31:00, всего свободного места на диске C: – 53000335360
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:31:00, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:31:00:
+имя диска – C:\, объем – 160018984960, доступный объем – 53000335360, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323432427520, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:31:00, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:31:00, размер файла PPPLogFile.txt – 120060, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:31:00, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:31:00
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:31:00, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:31:00, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:31:00, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:31:00, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:31:00, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:31:00, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:31:00, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:31:00, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:31:00, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:31:00, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:31:00, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:31:00, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:38:47, всего свободного места на диске C: – 52995280896
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:38:47, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:38:47:
+имя диска – C:\, объем – 160018984960, доступный объем – 52995280896, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323428515840, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:38:47, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:38:47, размер файла PPPLogFile.txt – 123986, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:38:47, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:38:47
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:38:47, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:38:47, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:38:47, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:38:47, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:38:47, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:38:47, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:38:47, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:38:47, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:38:47, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:38:47, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:38:47, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:39:21, всего свободного места на диске C: – 52998008832
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:39:21, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:39:21:
+имя диска – C:\, объем – 160018984960, доступный объем – 52998008832, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323425312768, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:39:21, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:39:21, размер файла PPPLogFile.txt – 127654, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:39:21, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:39:21
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:39:21, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:39:21, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:39:21, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:39:21, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:39:21, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:39:21, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:39:21, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:39:21, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:39:21, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:39:21, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:39:21, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:39:21, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void ToZip(System.String, System.String), время – 17.12.2020 4:39:22, действие – архивирование каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects.zip
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:43:39, всего свободного места на диске C: – 52991377408
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:43:39, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:43:39:
+имя диска – C:\, объем – 160018984960, доступный объем – 52991377408, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323416457216, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:43:39, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:43:39, размер файла PPPLogFile.txt – 131841, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:43:40, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:43:39
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:43:40, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:43:40, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:43:40, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:43:40, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:43:40, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:43:40, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:43:40, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:43:40, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:43:40, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:43:40, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:43:40, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:44:04, всего свободного места на диске C: – 52994400256
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:44:04, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:44:04:
+имя диска – C:\, объем – 160018984960, доступный объем – 52994400256, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323412725760, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:44:04, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:44:04, размер файла PPPLogFile.txt – 135509, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:44:04, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:44:04
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:44:04, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:44:04, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:44:04, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:44:04, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:44:04, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:44:04, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:44:04, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:44:04, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:44:04, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void RenameFile(System.String, System.String), время – 17.12.2020 4:44:04, действие – переименование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt в pppdirinfoAAAAAAAAAAA.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:44:04, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:44:04, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:44:05, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:44:05, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void ToZip(System.String, System.String), время – 17.12.2020 4:44:05, действие – архивирование каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects.zip
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:45:03, всего свободного места на диске C: – 52992716800
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:45:03, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:45:03:
+имя диска – C:\, объем – 160018984960, доступный объем – 52992716800, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323405414400, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:45:03, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:45:03, размер файла PPPLogFile.txt – 140262, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:45:03, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:45:03
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:45:03, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:45:03, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:45:03, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:45:03, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:45:03, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:45:03, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:45:03, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:45:03, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CopyFile(System.String, System.String), время – 17.12.2020 4:45:03, действие – копирование файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfoSSSSS.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:45:03, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:45:03, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:45:04, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:45:04, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void ToZip(System.String, System.String), время – 17.12.2020 4:45:04, действие – архивирование каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects.zip
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:47:29, всего свободного места на диске C: – 52993052672
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:47:29, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:47:29:
+имя диска – C:\, объем – 160018984960, доступный объем – 52993052672, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323399118848, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:47:29, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:47:29, размер файла PPPLogFile.txt – 144746, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:47:29, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:47:29
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:47:29, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:47:29, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:47:29, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:47:29, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:47:29, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:47:29, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:47:29, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:47:29, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:47:29, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:47:29, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:47:29, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:47:29, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void ToZip(System.String, System.String), время – 17.12.2020 4:47:30, действие – архивирование каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects.zip
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:47:48, всего свободного места на диске C: – 52991959040
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:47:48, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:47:48:
+имя диска – C:\, объем – 160018984960, доступный объем – 52991959040, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323392823296, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:47:48, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:47:48, размер файла PPPLogFile.txt – 148933, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:47:48, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:47:48
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:47:48, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:47:48, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:47:48, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:47:48, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:47:48, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:47:48, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:47:48, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:47:48, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:47:48, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:47:48, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:47:48, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:47:48, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void ToZip(System.String, System.String), время – 17.12.2020 4:47:48, действие – архивирование каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects.zip
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:48:46, всего свободного места на диске C: – 52991176704
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:48:46, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:48:46:
+имя диска – C:\, объем – 160018984960, доступный объем – 52991176704, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323386527744, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:48:46, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:48:46, размер файла PPPLogFile.txt – 153120, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:48:46, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:48:46
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:48:46, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:48:46, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:48:46, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:48:46, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:48:46, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:48:46, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:48:46, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:48:46, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:48:46, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:48:46, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:48:47, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:48:47, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void DisplayTotalFreeSpace(System.String), время – 17.12.2020 4:49:15, всего свободного места на диске C: – 52990046208
+Метод – Void DisplayDriveFormat(System.String), время – 17.12.2020 4:49:15, имя файловой системы – NTFS
+Метод – Void DisplayDiskInfo(), время – 17.12.2020 4:49:15:
+имя диска – C:\, объем – 160018984960, доступный объем – 52990046208, метка тома – Windows
+имя диска – E:\, объем – 419430395904, доступный объем – 323383316480, метка тома – Новый том
+имя диска – F:\, объем – 419429347328, доступный объем – 367330365440, метка тома – Новый том
+
+Метод – Void GetFullPath(System.String), время – 17.12.2020 4:49:15, полный путь к файлу PPPLogFile.txt – E:\2 курс\OOP\lab13\lab13\lab13\PPPLogFile.txt
+Метод – Void GetFileInfo(System.String), время – 17.12.2020 4:49:15, размер файла PPPLogFile.txt – 157046, расширение – .txt
+Метод – Void GetCreationAndChangeInfo(System.String), время – 17.12.2020 4:49:15, дата создания файла PPPLogFile.txt – 16.12.2020 23:10:41, дата изменения – 17.12.2020 4:49:15
+Метод – Void FilesAmount(System.String), время – 17.12.2020 4:49:15, количество файлов в директории E:\2 курс\OOP\ – 5
+Метод – Void GetCreationTime(System.String), время – 17.12.2020 4:49:15, время создания каталога E:\2 курс\OOP\ – 04.09.2020 21:48:19
+Метод – Void SubdirectoriesAmount(System.String), время – 17.12.2020 4:49:15, количество подкаталогов каталога E:\2 курс\OOP\ – 18
+Метод – Void DisplayParentDirectories(System.String), время – 17.12.2020 4:49:15, родительские директории каталога E:\2 курс\OOP\ – E:\2 курс\OOP
+Метод – System.String GetFilesAndDirectories(System.String), время – 17.12.2020 4:49:15, действие – получение списка файлов и каталогов диска F:
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:49:15, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect
+Метод – Void CreateFile(System.String), время – 17.12.2020 4:49:15, действие – создание нового файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void ToFile(System.String, System.String), время – 17.12.2020 4:49:15, действие – запись в файл по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void DeleteFile(System.String), время – 17.12.2020 4:49:15, действие – удаление файла по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPInspect\pppdirinfo.txt
+Метод – Void CreateDirectory(System.String), время – 17.12.2020 4:49:15, действие – создание нового каталога по пути E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void CopyFiles(System.String, System.String, System.String), время – 17.12.2020 4:49:15, действие – копирование файлов с расширением *.jpg из E:\pic в E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles\t
+Метод – Void MoveDirectory(System.String, System.String), время – 17.12.2020 4:49:15, действие – перемещение каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPFiles в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects
+Метод – Void ToZip(System.String, System.String), время – 17.12.2020 4:49:16, действие – архивирование каталога E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects в E:\2 курс\OOP\lab13\lab13\lab13\PPPInspects.zip
